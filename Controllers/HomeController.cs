@@ -4,7 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 
-namespace HellenHarryAssigment3.Controllers
+namespace HRApplication.Controllers
 {
     public class HomeController : Controller
     {

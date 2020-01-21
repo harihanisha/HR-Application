@@ -6,9 +6,9 @@ using System.Linq;
 using System.Net;
 using System.Web;
 using System.Web.Mvc;
-using HellenHarryAssigment3.Models;
+using HRApplication.Models;
 
-namespace HellenHarryAssigment3.Controllers
+namespace HRApplication.Controllers
 {
     public class EmployeesController : Controller
     {

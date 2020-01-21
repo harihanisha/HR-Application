@@ -1,7 +1,7 @@
 ﻿using System.Web;
 using System.Web.Optimization;
 
-namespace HellenHarryAssigment3
+namespace HRApplication
 {
     public class BundleConfig
     {

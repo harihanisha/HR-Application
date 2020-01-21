@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace HellenHarryAssigment3.Models
+namespace HRApplication.Models
 {
     using System;
     using System.Collections.Generic;

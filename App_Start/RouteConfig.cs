@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.Mvc;
 using System.Web.Routing;
 
-namespace HellenHarryAssigment3
+namespace HRApplication
 {
     public class RouteConfig
     {
